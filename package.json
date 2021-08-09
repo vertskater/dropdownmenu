@@ -1,0 +1,26 @@
+{
+  "name": "dropdownmenu",
+  "version": "1.0.0",
+  "description": "drop-donw-menu toggles with click event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vertskater/dropdownmenu.git"
+  },
+  "keywords": [
+    "dropdown",
+    "animation",
+    "click",
+    "scale",
+    "opacity"
+  ],
+  "author": "vertskater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vertskater/dropdownmenu/issues"
+  },
+  "homepage": "https://github.com/vertskater/dropdownmenu#readme"
+}
