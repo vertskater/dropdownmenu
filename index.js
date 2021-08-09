@@ -1,6 +1,4 @@
-import "./style.css";
-
-export default function dropdownmenu(duration) {
+function dropdownmenu(duration) {
   const trigger = document.querySelectorAll(".nav-trigger");
   const menus = document.querySelectorAll("nav > ul");
 
@@ -26,3 +24,5 @@ export default function dropdownmenu(duration) {
     });
   });
 }
+
+export { dropdownmenu };
