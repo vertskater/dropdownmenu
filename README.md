@@ -4,7 +4,7 @@ A Drop-Down-Menu toogle with animation
 
 # Installation
 
-`npm install dropdownmenu --save`
+`npm install vertskatersddm --save`
 
 Then ...
 
@@ -32,4 +32,4 @@ html ...
 
 ## Options
 
-duration = ineger in seconds (s) or (ms);
+duration = string in seconds (s) or (ms);
