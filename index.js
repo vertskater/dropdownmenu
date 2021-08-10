@@ -6,7 +6,6 @@ function dropdownmenu(duration) {
     menu.style.opacity = "0";
     menu.style.transform = "scale(0)";
     menu.style.position = "absolute";
-    menu.style.width = "100%";
     menu.style.transition = "all " + duration + " ease-in-out";
   });
 
