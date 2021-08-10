@@ -11,7 +11,10 @@ Then ...
 ```
 import { dropdownmenu } from 'dropdownmenu';
 
-dropdownmenu(duration);
+dropdownmenu({
+  duration: '300ms',
+  appearance: 'scale',
+});
 ```
 
 html ...
@@ -32,4 +35,7 @@ html ...
 
 ## Options
 
-duration = string in seconds (s) or (ms);
+This menu supports 2 options
+
+- _duration_ string in seconds (s) or (ms);
+- _appearance_ _scale | fromtop_
