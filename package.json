@@ -1,6 +1,6 @@
 {
   "name": "scale-in-menu",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "scale-in-menu toggles with click event",
   "main": "index.js",
   "scripts": {

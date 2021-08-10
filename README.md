@@ -4,7 +4,7 @@ A Drop-Down-Menu toogle with animation
 
 # Installation
 
-`npm install vertskatersddm --save`
+`npm install scale-in-menu --save`
 
 Then ...
 
